@@ -1,2 +1,2 @@
 # github-fork
-Hello, i'm milaayufadila. This is readme from upstream repository
+Hello, i'm Mila Ayu Fadila. This is readme from fork repository
